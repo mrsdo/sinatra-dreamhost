@@ -1,0 +1,5 @@
+.bundle
+*.log
+*.pid
+passenger.3000.pid.lock
+/.idea/

@@ -1,0 +1,9 @@
+.bundle
+*.log
+*.pid
+passenger.*.lock
+/.idea/
+
+# Project exclude paths
+/vendor/bundle/ruby/2.7.0/gems/passenger-6.0.7/src/nodejs_supportlib/vendor-copy/continuation-local-storage/node_modules/
+/vendor/bundle/ruby/2.7.0/gems/passenger-6.0.7/src/nodejs_supportlib/vendor-copy/winston/node_modules/
